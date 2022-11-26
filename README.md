@@ -1,2 +1,2 @@
-# folder
+# practic git
 github
